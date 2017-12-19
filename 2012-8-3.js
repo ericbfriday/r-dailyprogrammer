@@ -12,3 +12,4 @@ function fib(n){
 
 fib(20);
 // 10946
+// https://www.reddit.com/r/dailyprogrammer/comments/qnkro/382012_challenge_20_easy/
